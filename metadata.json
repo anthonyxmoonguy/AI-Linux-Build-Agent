@@ -1,0 +1,5 @@
+{
+  "name": "AI Linux Build Agent",
+  "description": "An interactive web application that simulates an AI agent generating, building, and debugging a custom minimal Linux OS using Buildroot.",
+  "requestFramePermissions": []
+}
